@@ -1,1 +1,1 @@
-# odin-recipes
+This is the first TOP project. It consists of creating a website with what we've learned so far. I'll probably be using html.
